@@ -1,5 +1,3 @@
-Certainly! Below is the README documentation for your NYC Cafes API in Markdown format:
-
 ```markdown
 # NYC Cafes API
 
@@ -77,8 +75,6 @@ To get started, you can use tools like `curl` or Postman to make HTTP requests t
 
 Feel free to explore and enjoy the diverse cafe scene in NYC!
 ```
-
-Copy and paste this Markdown content into your README.md file in your GitHub repository. Adjust any details as needed for your specific API.
 
 
 
