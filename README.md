@@ -73,10 +73,6 @@ The API returns data in JSON format. Here's an example response:
 
 To get started, you can use tools like `curl` or Postman to make HTTP requests to the provided endpoints. Adjust query parameters as needed to filter cafes based on your preferences.
 
-Feel free to explore and enjoy the diverse cafe scene in NYC!
-```
-
-
 
 
 
