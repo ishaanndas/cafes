@@ -65,7 +65,6 @@ The API returns data in JSON format. Here's an example response:
     "powerOutlets": false,
     "vibes": "Hipster"
   }
-  // Add more cafes as needed
 ]
 ```
 
